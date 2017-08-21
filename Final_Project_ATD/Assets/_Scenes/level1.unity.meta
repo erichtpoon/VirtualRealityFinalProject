@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head prefix='og: http://ogp.me/ns#'>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='object' property='og:type'>
+<meta content='GitLab' property='og:site_name'>
+<meta content='Final_Project_ATD/Assets/_Scenes/level1.unity.meta · master · a264chan / FinalProject' property='og:title'>
+<meta content='GitLab Enterprise Edition' property='og:description'>
+<meta content='https://gitlab.scs.ryerson.ca/assets/gitlab_logo-cdf021b35c4e6bb149e26460f26fae81e80552bc879179dd80e9e9266b14e894.png' property='og:image'>
+<meta content='https://gitlab.scs.ryerson.ca/a264chan/FinalProject/blob/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta' property='og:url'>
+<meta content='summary' property='twitter:card'>
+<meta content='Final_Project_ATD/Assets/_Scenes/level1.unity.meta · master · a264chan / FinalProject' property='twitter:title'>
+<meta content='GitLab Enterprise Edition' property='twitter:description'>
+<meta content='https://gitlab.scs.ryerson.ca/assets/gitlab_logo-cdf021b35c4e6bb149e26460f26fae81e80552bc879179dd80e9e9266b14e894.png' property='twitter:image'>
+
+<title>Final_Project_ATD/Assets/_Scenes/level1.unity.meta · master · a264chan / FinalProject · GitLab</title>
+<meta content='GitLab Enterprise Edition' name='description'>
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-075eba76312e8421991a0c1f89a89ee81678bcde72319dd3e8047e2a47cd3a42.ico" />
+<link rel="stylesheet" media="all" href="/assets/application-f74617d691520eec9f5146b18808de6df11edfb14391b31ad1bf977b7c903d58.css" />
+<link rel="stylesheet" media="print" href="/assets/print-68eed6d8135d858318821e790e25da27b2b4b9b8dbb1993fa6765d8e2e3e16ee.css" />
+<script src="/assets/application-41396a0fce81b861fdf8536ef0d2b0e28a7ed437c8d3bd1a9c748b4be2a01f06.js"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="R8x17vY/Jl+jvNZsOFte0FD2xEQH0s2MPWcZc/kT/QjrZmTDXIGQsuDlHSXHxS0muPoRla/r6YAYQTRYwx59LQ==" />
+<script>
+//<![CDATA[
+window.gon={};gon.api_version="v3";gon.default_avatar_url="https://gitlab.scs.ryerson.ca/assets/no_avatar-07eeb128b993e74003e8664cff0b8e1e7234cec0443766a6763df32ca3472c23.png";gon.default_issues_tracker="gitlab";gon.max_file_size=10;gon.relative_url_root="";gon.user_color_scheme="white";gon.current_user_id=297;gon.api_token="5x2erij8WTvQLyx7nDUg";
+//]]>
+</script>
+<meta content='origin-when-cross-origin' name='referrer'>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='#474D57' name='theme-color'>
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-2d64ecc33893baab71adc15ff19a803a59911cc2651fb9d4d62af1379ff89aab.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-d08897d57e1bc9400024ac15465340e832a8e7b166b91624138d48ea2c739596.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-iphone-retina-81446c57f3351d1dacd0fb5f23ced74ba63d3878810bedea343999c6a12b3915.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/touch-icon-ipad-retina-e2a776da039936ac240e76615add47b25ab77c75a5fa2d1b3907f83d5502b911.png" sizes="152x152" />
+<link color='rgb(226, 67, 41)' href='/assets/logo-d36b5212042cebc89b96df4bf6ac24e43db316143e89926c0db839ff694d2de4.svg' rel='mask-icon'>
+<meta content='/assets/msapplication-tile-49c9c46afd2ab9bbf35e69138bc62f8c31fa55584bd494956ac6e58e6aadc813.png' name='msapplication-TileImage'>
+<meta content='#30353E' name='msapplication-TileColor'>
+
+
+
+
+<style>
+  [data-user-is] {
+    display: none !important;
+  }
+  
+  [data-user-is="297"] {
+    display: block !important;
+  }
+  
+  [data-user-is="297"][data-display="inline"] {
+    display: inline !important;
+  }
+  
+  [data-user-is-not] {
+    display: block !important;
+  }
+  
+  [data-user-is-not][data-display="inline"] {
+    display: inline !important;
+  }
+  
+  [data-user-is-not="297"] {
+    display: none !important;
+  }
+</style>
+
+</head>
+
+<body class='ui_charcoal' data-page='projects:blob:show'>
+<script>
+  window.project_uploads_path = "/a264chan/FinalProject/uploads";
+  window.markdown_preview_path = "/a264chan/FinalProject/markdown_preview";
+</script>
+
+<header class='header-expanded navbar navbar-fixed-top navbar-gitlab'>
+<div class='container-fluid'>
+<div class='header-content'>
+<button class='navbar-toggle' type='button'>
+<span class='sr-only'>Toggle navigation</span>
+<i class="fa fa-bars"></i>
+</button>
+<div class='navbar-collapse collapse'>
+<ul class='nav navbar-nav'>
+<li class='hidden-sm hidden-xs'>
+<div class='has-location-badge search search-form'>
+<form class="navbar-form" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='search-input-container'>
+<div class='search-location-badge'>
+<span class='location-badge'>
+<i class='location-text'>
+This project
+</i>
+</span>
+</div>
+<div class='search-input-wrap'>
+<div class='dropdown' data-url='/search/autocomplete'>
+<input type="search" name="search" id="search" placeholder="Search" class="search-input dropdown-menu-toggle" spellcheck="false" tabindex="1" autocomplete="off" data-toggle="dropdown" />
+<div class='dropdown-menu dropdown-select'>
+<div class="dropdown-content"><ul>
+<li>
+<a class='is-focused dropdown-menu-empty-link'>
+Loading...
+</a>
+</li>
+</ul>
+</div><div class="dropdown-loading"><i class="fa fa-spinner fa-spin"></i></div>
+</div>
+<i class='search-icon'></i>
+<i class='clear-icon js-clear-input'></i>
+</div>
+</div>
+</div>
+<input type="hidden" name="group_id" id="group_id" />
+<input type="hidden" name="project_id" id="search_project_id" value="596" />
+<input type="hidden" name="search_code" id="search_code" value="true" />
+<input type="hidden" name="repository_ref" id="repository_ref" value="master" />
+
+<div class='search-autocomplete-opts hide' data-autocomplete-path='/search/autocomplete' data-autocomplete-project-id='596' data-autocomplete-project-ref='master'></div>
+</form>
+
+</div>
+
+</li>
+<li class='visible-sm visible-xs'>
+<a title="Search" data-toggle="tooltip" data-placement="bottom" data-container="body" href="/search"><i class="fa fa-search"></i>
+</a></li>
+<li>
+<a title="Todos" data-toggle="tooltip" data-placement="bottom" data-container="body" href="/dashboard/todos"><span class='badge todos-pending-count'>
+0
+</span>
+</a></li>
+<li>
+<a title="New project" data-toggle="tooltip" data-placement="bottom" data-container="body" href="/projects/new"><i class="fa fa-plus fa-fw"></i>
+</a></li>
+<li>
+<a class="logout" title="Sign out" data-toggle="tooltip" data-placement="bottom" data-container="body" rel="nofollow" data-method="delete" href="/users/sign_out"><i class="fa fa-sign-out"></i>
+</a></li>
+</ul>
+</div>
+<h1 class='title'><a href="/u/a264chan">a264chan</a> / <a class="project-item-select-holder" href="/a264chan/FinalProject">FinalProject</a><i data-target=".js-dropdown-menu-projects" data-toggle="dropdown" class="fa fa-chevron-down dropdown-toggle-caret js-projects-dropdown-toggle"></i> &middot; <a href="/a264chan/FinalProject/tree/master">Files</a></h1>
+<div class='js-dropdown-menu-projects'>
+<div class='dropdown-menu dropdown-select dropdown-menu-projects'>
+<div class="dropdown-title"><span>Go to a project</span><button class="dropdown-title-button dropdown-menu-close" aria-label="Close" type="button"><i class="fa fa-times dropdown-menu-close-icon"></i></button></div>
+<div class="dropdown-input"><input type="search" id="" class="dropdown-input-field" placeholder="Search your projects" /><i class="fa fa-search dropdown-input-search"></i><i role="button" class="fa fa-times dropdown-input-clear js-dropdown-input-clear"></i></div>
+<div class="dropdown-content"></div>
+<div class="dropdown-loading"><i class="fa fa-spinner fa-spin"></i></div>
+</div>
+</div>
+
+</div>
+</div>
+</header>
+
+<script>
+  var findFileURL = "/a264chan/FinalProject/find_file/master";
+</script>
+
+<div class='page-sidebar-expanded page-with-sidebar'>
+
+
+<div class='nicescroll sidebar-expanded sidebar-wrapper'>
+<div class='header-logo'>
+<a id='logo'>
+<svg width="36" height="36" id="tanuki-logo">
+  <path id="tanuki-right-ear" class="tanuki-shape" fill="#e24329" d="M2 14l9.38 9v-9l-4-12.28c-.205-.632-1.176-.632-1.38 0z"/>
+  <path id="tanuki-left-ear" class="tanuki-shape" fill="#e24329" d="M34 14l-9.38 9v-9l4-12.28c.205-.632 1.176-.632 1.38 0z"/>
+  <path id="tanuki-nose" class="tanuki-shape" fill="#e24329" d="M18,34.38 3,14 33,14 Z"/>
+  <path id="tanuki-right-eye" class="tanuki-shape" fill="#fc6d26" d="M18,34.38 11.38,14 2,14 6,25Z"/>
+  <path id="tanuki-left-eye" class="tanuki-shape" fill="#fc6d26" d="M18,34.38 24.62,14 34,14 30,25Z"/>
+  <path id="tanuki-right-cheek" class="tanuki-shape" fill="#fca326" d="M2 14L.1 20.16c-.18.565 0 1.2.5 1.56l17.42 12.66z"/>
+  <path id="tanuki-left-cheek" class="tanuki-shape" fill="#fca326" d="M34 14l1.9 6.16c.18.565 0 1.2-.5 1.56L18 34.38z"/>
+</svg>
+
+</a>
+<a class="gitlab-text-container-link" title="Dashboard" id="js-shortcuts-home" href="/"><div class='gitlab-text-container'>
+<h3>GitLab</h3>
+</div>
+</a></div>
+<ul class='nav nav-sidebar'>
+<li class=""><a title="Go to dashboard" class="back-link" href="/"><i class="fa fa-caret-square-o-left fa-fw"></i>
+<span>
+Go to dashboard
+</span>
+</a></li><li class='separate-item'></li>
+<li class="home"><a title="Project" class="shortcuts-project" href="/a264chan/FinalProject"><i class="fa fa-bookmark fa-fw"></i>
+<span>
+Project
+</span>
+</a></li><li class=""><a title="Activity" class="shortcuts-project-activity" href="/a264chan/FinalProject/activity"><i class="fa fa-dashboard fa-fw"></i>
+<span>
+Activity
+</span>
+</a></li><li class="active"><a title="Files" class="shortcuts-tree" href="/a264chan/FinalProject/tree/master"><i class="fa fa-files-o fa-fw"></i>
+<span>
+Files
+</span>
+</a></li><li class=""><a title="Commits" class="shortcuts-commits" href="/a264chan/FinalProject/commits/master"><i class="fa fa-history fa-fw"></i>
+<span>
+Commits
+</span>
+</a></li><li class=""><a title="Builds" class="shortcuts-builds" href="/a264chan/FinalProject/builds"><i class="fa fa-cubes fa-fw"></i>
+<span>
+Builds
+<span class='count builds_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Graphs" class="shortcuts-graphs" href="/a264chan/FinalProject/graphs/master"><i class="fa fa-area-chart fa-fw"></i>
+<span>
+Graphs
+</span>
+</a></li><li class=""><a title="Milestones" href="/a264chan/FinalProject/milestones"><i class="fa fa-clock-o fa-fw"></i>
+<span>
+Milestones
+</span>
+</a></li><li class=""><a title="Issues" class="shortcuts-issues" href="/a264chan/FinalProject/issues"><i class="fa fa-exclamation-circle fa-fw"></i>
+<span>
+Issues
+<span class='count issue_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Merge Requests" class="shortcuts-merge_requests" href="/a264chan/FinalProject/merge_requests"><i class="fa fa-tasks fa-fw"></i>
+<span>
+Merge Requests
+<span class='count merge_counter'>0</span>
+</span>
+</a></li><li class=""><a title="Members" class="team-tab tab" href="/a264chan/FinalProject/project_members"><i class="fa fa-users fa-fw"></i>
+<span>
+Members
+</span>
+</a></li><li class=""><a title="Labels" href="/a264chan/FinalProject/labels"><i class="fa fa-tags fa-fw"></i>
+<span>
+Labels
+</span>
+</a></li><li class=""><a title="Wiki" class="shortcuts-wiki" href="/a264chan/FinalProject/wikis/home"><i class="fa fa-book fa-fw"></i>
+<span>
+Wiki
+</span>
+</a></li><li class=""><a title="Forks" href="/a264chan/FinalProject/forks"><i class="fa fa-code-fork fa-fw"></i>
+<span>
+Forks
+</span>
+</a></li><li class="separate-item"><a title="Settings" href="/a264chan/FinalProject/edit"><i class="fa fa-cogs fa-fw"></i>
+<span>
+Settings
+</span>
+</a></li><li class='hidden'>
+<a title="Network" class="shortcuts-network" href="/a264chan/FinalProject/network/master">Network
+</a></li>
+</ul>
+
+<div class='collapse-nav'>
+<a class="toggle-nav-collapse" title="Open/Close" href="#"><i class="fa fa-angle-left"></i></a>
+
+</div>
+<a class="sidebar-user" title="Profile" href="/u/hepoon"><img alt="Profile" class="avatar avatar s36" src="https://secure.gravatar.com/avatar/afe462fa6c482dbddeb1d009dc96799d?s=120&amp;d=identicon" />
+<div class='username'>
+hepoon
+</div>
+</a></div>
+<div class='content-wrapper'>
+<div class='flash-container'>
+</div>
+
+
+<div class='container-fluid container-limited'>
+<div class='content'>
+<div class='clearfix'>
+
+
+<div class='tree-holder' id='tree-holder'>
+<div class='nav-block'>
+<div class='tree-ref-holder'>
+<form class="project-refs-form" action="/a264chan/FinalProject/refs/switch" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<select name="ref" id="ref" class="project-refs-select select2 select2-sm"><optgroup label="Branches"><option selected="selected" value="master">master</option></optgroup><optgroup label="Tags"></optgroup></select>
+<input type="hidden" name="destination" id="destination" value="blob" />
+<input type="hidden" name="path" id="path" value="Final_Project_ATD/Assets/_Scenes/level1.unity.meta" />
+</form>
+
+
+</div>
+<ul class='breadcrumb repo-breadcrumb'>
+<li>
+<a href="/a264chan/FinalProject/tree/master">FinalProject
+</a></li>
+<li>
+<a href="/a264chan/FinalProject/tree/master/Final_Project_ATD">Final_Project_ATD</a>
+</li>
+<li>
+<a href="/a264chan/FinalProject/tree/master/Final_Project_ATD/Assets">Assets</a>
+</li>
+<li>
+<a href="/a264chan/FinalProject/tree/master/Final_Project_ATD/Assets/_Scenes">_Scenes</a>
+</li>
+<li>
+<a href="/a264chan/FinalProject/blob/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta"><strong>
+level1.unity.meta
+</strong>
+</a></li>
+</ul>
+</div>
+<ul class='blob-commit-info hidden-xs'>
+<li class='commit js-toggle-container' id='commit-699d5b30'>
+<div class='commit-row-title'>
+<span class='item-title'>
+<a class="commit-row-message" href="/a264chan/FinalProject/commit/699d5b30f9aeb59e82ffa163c800e5781aac8b01">started scene1</a>
+</span>
+<div class='pull-right'>
+<a class="ci-status-link ci-status-icon-skipped" title="Build skipped" data-toggle="tooltip" data-placement="auto left" href="/a264chan/FinalProject/commit/699d5b30f9aeb59e82ffa163c800e5781aac8b01/builds"><i class="fa fa-circle fa-fw"></i></a>
+<button class="btn btn-clipboard" data-clipboard-text="699d5b30f9aeb59e82ffa163c800e5781aac8b01" type="button"><i class="fa fa-clipboard"></i></button>
+<a class="commit_short_id" href="/a264chan/FinalProject/commit/699d5b30f9aeb59e82ffa163c800e5781aac8b01">699d5b30</a>
+</div>
+</div>
+<div class='commit-row-info'>
+by
+<a class="commit-author-link has-tooltip" title="eric.ht.poon@gmail.com" href="mailto:eric.ht.poon@gmail.com"><img class="avatar s24" width="24" alt="" src="https://secure.gravatar.com/avatar/5fc68fc53392546f38f768a65de49bcb?s=48&amp;d=identicon" /> <span class="commit-author-name">erichtpoon</span></a>
+<div class='committed_ago'>
+<time class="time_ago js-timeago js-timeago-pending" datetime="2017-03-08T19:55:14Z" title="Mar 8, 2017 7:55pm" data-toggle="tooltip" data-placement="top" data-container="body">2017-03-08 14:55:14 -0500</time><script>
+//<![CDATA[
+$('.js-timeago-pending').removeClass('js-timeago-pending').timeago()
+//]]>
+</script> &nbsp;
+</div>
+<a class="pull-right" href="/a264chan/FinalProject/tree/699d5b30f9aeb59e82ffa163c800e5781aac8b01">Browse Files</a>
+</div>
+</li>
+
+</ul>
+<div class='blob-content-holder' id='blob-content-holder'>
+<article class='file-holder'>
+<div class='file-title'>
+<i class="fa fa-file-text-o fa-fw"></i>
+<strong>
+level1.unity.meta
+</strong>
+<small>
+175 Bytes
+</small>
+<div class='file-actions hidden-xs'>
+<div class='btn-group tree-btn-group'>
+<a class="btn btn-sm" target="_blank" href="/a264chan/FinalProject/raw/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta">Raw</a>
+<a class="btn btn-sm" href="/a264chan/FinalProject/blame/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta">Blame</a>
+<a class="btn btn-sm" href="/a264chan/FinalProject/commits/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta">History</a>
+<a class="btn btn-sm" href="/a264chan/FinalProject/blob/16a4606f91034efca67ca54b626d2e1575d05bc6/Final_Project_ATD/Assets/_Scenes/level1.unity.meta">Permalink</a>
+</div>
+<div class='btn-group' role='group'>
+<a class="btn btn-file-option" href="/a264chan/FinalProject/edit/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta">Edit</a>
+<button name="button" type="submit" class="btn btn-default" data-target="#modal-upload-blob" data-toggle="modal">Replace</button>
+<button name="button" type="submit" class="btn btn-remove" data-target="#modal-remove-blob" data-toggle="modal">Delete</button>
+</div>
+
+</div>
+</div>
+<div class='file-content code js-syntax-highlight'>
+<div class='line-numbers'>
+<a class='diff-line-num' data-line-number='1' href='#L1' id='L1'>
+<i class='fa fa-link'></i>
+1
+</a>
+<a class='diff-line-num' data-line-number='2' href='#L2' id='L2'>
+<i class='fa fa-link'></i>
+2
+</a>
+<a class='diff-line-num' data-line-number='3' href='#L3' id='L3'>
+<i class='fa fa-link'></i>
+3
+</a>
+<a class='diff-line-num' data-line-number='4' href='#L4' id='L4'>
+<i class='fa fa-link'></i>
+4
+</a>
+<a class='diff-line-num' data-line-number='5' href='#L5' id='L5'>
+<i class='fa fa-link'></i>
+5
+</a>
+<a class='diff-line-num' data-line-number='6' href='#L6' id='L6'>
+<i class='fa fa-link'></i>
+6
+</a>
+<a class='diff-line-num' data-line-number='7' href='#L7' id='L7'>
+<i class='fa fa-link'></i>
+7
+</a>
+<a class='diff-line-num' data-line-number='8' href='#L8' id='L8'>
+<i class='fa fa-link'></i>
+8
+</a>
+</div>
+<div class='blob-content' data-blob-id='24b222defcb10c22517c3464eb29be2194404c60'>
+<pre class="code highlight"><code><span id="LC1" class="line">fileFormatVersion: 2</span>
+<span id="LC2" class="line">guid: 73fb821f8f5fc254b87c0edf15e4cedd</span>
+<span id="LC3" class="line">timeCreated: 1489000100</span>
+<span id="LC4" class="line">licenseType: Free</span>
+<span id="LC5" class="line">DefaultImporter:</span>
+<span id="LC6" class="line">  userData: </span>
+<span id="LC7" class="line">  assetBundleName: </span>
+<span id="LC8" class="line">  assetBundleVariant: </span></code></pre>
+
+</div>
+</div>
+
+
+</article>
+</div>
+
+</div>
+<div class='modal' id='modal-remove-blob'>
+<div class='modal-dialog'>
+<div class='modal-content'>
+<div class='modal-header'>
+<a class='close' data-dismiss='modal' href='#'>×</a>
+<h3 class='page-title'>Delete level1.unity.meta</h3>
+</div>
+<div class='modal-body'>
+<form class="form-horizontal js-replace-blob-form js-quick-submit js-requires-input" action="/a264chan/FinalProject/blob/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="S5rEw+drKuHCLM/uFTXwZF5DSOKKNAKwfR24zxtZgOLnMNXuTdWcDIF1BKfqq4OStk+dMyINJrxYO5XkIVQAxw==" />
+<div class='form-group commit_message-group'>
+<label class="control-label" for="commit_message-06b12042de2c737485e8a9dc444325b3">Commit message
+</label><div class='col-sm-10'>
+<div class='commit-message-container'>
+<div class='max-width-marker'></div>
+<textarea name="commit_message" id="commit_message-06b12042de2c737485e8a9dc444325b3" class="form-control js-commit-message" placeholder="Delete level1.unity.meta" required="required" rows="3">
+Delete level1.unity.meta</textarea>
+</div>
+</div>
+</div>
+
+<div class='form-group branch'>
+<label class="control-label" for="target_branch">Target branch</label>
+<div class='col-sm-10'>
+<input type="text" name="target_branch" id="target_branch" value="master" required="required" class="form-control js-target-branch" />
+<div class='js-create-merge-request-container'>
+<div class='checkbox'>
+<label for="create_merge_request-68121c03df2d7832a5d0b86a8ef50605"><input type="checkbox" name="create_merge_request" id="create_merge_request-68121c03df2d7832a5d0b86a8ef50605" value="1" class="js-create-merge-request" checked="checked" />
+Start a <strong>new merge request</strong> with these changes
+</label></div>
+</div>
+</div>
+</div>
+<input type="hidden" name="original_branch" id="original_branch" value="master" class="js-original-branch" />
+
+<div class='form-group'>
+<div class='col-sm-offset-2 col-sm-10'>
+<button name="button" type="submit" class="btn btn-remove btn-remove-file">Delete file</button>
+<a class="btn btn-cancel" data-dismiss="modal" href="#">Cancel</a>
+</div>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+</div>
+<script>
+  new NewCommitForm($('.js-replace-blob-form'))
+</script>
+
+<div class='modal' id='modal-upload-blob'>
+<div class='modal-dialog'>
+<div class='modal-content'>
+<div class='modal-header'>
+<a class='close' data-dismiss='modal' href='#'>×</a>
+<h3 class='page-title'>Replace level1.unity.meta</h3>
+</div>
+<div class='modal-body'>
+<form class="js-quick-submit js-upload-blob-form form-horizontal" action="/a264chan/FinalProject/update/master/Final_Project_ATD/Assets/_Scenes/level1.unity.meta" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="OompMAJ5ahuVoafwfxhWjKvRCTxKQyTy/cCfyTDf4liWI7gdqMfc9tb4bLmAhiV6Q93c7eJ6AP7Y5rLiCtJifQ==" />
+<div class='dropzone'>
+<div class='dropzone-previews blob-upload-dropzone-previews'>
+<p class='dz-message light'>
+Attach a file by drag &amp; drop or
+<a class="markdown-selector" href="#">click to upload</a>
+</p>
+</div>
+</div>
+<br>
+<div class='alert alert-danger data dropzone-alerts' style='display:none'></div>
+<div class='form-group commit_message-group'>
+<label class="control-label" for="commit_message-c9ea091b80be2253015c778da43186a9">Commit message
+</label><div class='col-sm-10'>
+<div class='commit-message-container'>
+<div class='max-width-marker'></div>
+<textarea name="commit_message" id="commit_message-c9ea091b80be2253015c778da43186a9" class="form-control js-commit-message" placeholder="Replace level1.unity.meta" required="required" rows="3">
+Replace level1.unity.meta</textarea>
+</div>
+</div>
+</div>
+
+<div class='form-group branch'>
+<label class="control-label" for="target_branch">Target branch</label>
+<div class='col-sm-10'>
+<input type="text" name="target_branch" id="target_branch" value="master" required="required" class="form-control js-target-branch" />
+<div class='js-create-merge-request-container'>
+<div class='checkbox'>
+<label for="create_merge_request-ae262a348099f5f7a40bf3a9906e45ec"><input type="checkbox" name="create_merge_request" id="create_merge_request-ae262a348099f5f7a40bf3a9906e45ec" value="1" class="js-create-merge-request" checked="checked" />
+Start a <strong>new merge request</strong> with these changes
+</label></div>
+</div>
+</div>
+</div>
+<input type="hidden" name="original_branch" id="original_branch" value="master" class="js-original-branch" />
+
+<div class='form-actions'>
+<button name="button" type="submit" class="btn btn-small btn-create btn-upload-file" id="submit-all">Replace file</button>
+<a class="btn btn-cancel" data-dismiss="modal" href="#">Cancel</a>
+</div>
+</form>
+
+</div>
+</div>
+</div>
+</div>
+<script>
+  disableButtonIfEmptyField($('.js-upload-blob-form').find('.js-commit-message'), '.btn-upload-file');
+  new BlobFileDropzone($('.js-upload-blob-form'), 'put');
+  new NewCommitForm($('.js-upload-blob-form'))
+</script>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+</body>
+</html>
+

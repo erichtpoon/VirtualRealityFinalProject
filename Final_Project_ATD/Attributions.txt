@@ -1,0 +1,41 @@
+// Each of your teammates must complete the following for themselves.
+
+Team member name:
+SCS user id:
+Percentage of work done: 50%
+Percentage of mark deserved: 50%
+
+// List any other attributions (code, assets) below:
+
+Sandstone Wall Construction Kit by Unity Technologies
+from Asset Store
+
+Original camel by Noway: http://opengameart.org/content/camel-basemesh Camel image by Chenspec: 
+from https://commons.wikimedia.org/wiki/File:Camel_2.jpg
+
+Destroyed walls 3d models by LFA
+from http://opengameart.org/content/destroyed-walls-3d-models
+
+Character Cactus by Maksim Bugrimov
+from Asset Store
+
+Metal+Stone textures - FT_BROKEN01 by Spiney
+from http://opengameart.org/content/metalstone-textures
+
+Grass texture by Lamoot
+from http://opengameart.org/content/grass-texture
+
+Dry Stone Wall with Leafy Vines by bitsong
+from Asset store
+
+Stylized Vegetation FREE Samples by Poly Ninja
+from Asset store
+
+Sand texture by John2k
+from http://opengameart.org/content/sand-texture
+
+Archery Set by yd
+from http://opengameart.org/content/archery-set
+
+Yughues Free Metal Materials by Yughues
+from Asset store
