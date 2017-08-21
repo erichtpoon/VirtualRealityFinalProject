@@ -1,7 +1,7 @@
 # VirtualRealityFinalProject
 Virtual Reality Project<br><br>
-<b>Written in C# using the Unity Game Engine <br>
-Requires the use of virtual reality equiptment, preferably the Vive <br>
+<b>Written in C# using the Unity Game Engine. <br>
+Requires the use of virtual reality equiptment, preferably the Vive. <br><br>
 Basic instruction for the game:</b><br>
 One of the Vive controllers is the <b>bow hand</b>, this can be on either left hand or right hand, simply swap controllers to whichever hand is more comfortable holding the bow. The game begins with an intermission, this allows the user to swap.<br>
 The hand not controlling the bow is the <b>arrow hand</b>, it is used to:
