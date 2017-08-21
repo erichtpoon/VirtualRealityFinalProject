@@ -1,5 +1,5 @@
 # VirtualRealityFinalProject
-Virtual Reality Project
+Virtual Reality Project<br><br>
 <b>Written in C# using the Unity Game Engine <br>
 Requires the use of virtual reality equiptment, preferably the Vive <br>
 Basic instruction for the game:</b><br>
